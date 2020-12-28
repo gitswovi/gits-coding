@@ -1,5 +1,7 @@
 #!/bin/python3
 
+# From https://raspberrytips.com/raspberry-pi-gpio-pins/
+
 #import libraries
 import RPi.GPIO as GPIO
 import time

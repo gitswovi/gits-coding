@@ -17,9 +17,9 @@ led_2 = LED(17, pin_factory=factory2)  # remote pin on one pi
 while True:
     led_1.on()
     led_2.off()
-    led_3.on()
+#    led_3.on()
     sleep(1)
     led_1.off()
     led_2.on()
-    led_3.off()
+ #   led_3.off()
     sleep(1)

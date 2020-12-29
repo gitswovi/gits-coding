@@ -1,2 +1,2 @@
-# python
-my Python scripts
+# coding
+my newbie coding scripts

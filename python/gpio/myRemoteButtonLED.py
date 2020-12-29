@@ -11,8 +11,9 @@ from signal import pause
 btn = Button(2) # local RPi.GPIO pin
 
 # change change the default pin factory on the fly:
-gpiozero.Device.pin_factory = PiGPIOFactory('192.168.64.1')
-remoteLED = LED(17) # remote pin
+gpiozero.Device.pin_factory = PiGPIOFactory('192.168.16.1')
+#gpiozero.Device.pin_factory = PiGPIOFactory('192.168.64.227')
+remoteLED = LED(7) # remote pin
 
 remoteLED.source = button.values
 

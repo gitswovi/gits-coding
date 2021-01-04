@@ -1,2 +1,2 @@
 # gits-coding
-my own coding scripts
+my own coding

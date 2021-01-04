@@ -1,2 +1,2 @@
-# coding
-my newbie coding scripts
+# gits-coding
+my own coding scripts
